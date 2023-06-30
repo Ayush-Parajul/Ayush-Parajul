@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ayush-Parajul
+- 👋 Hi, I’m @Ayush-Parajuli
 - 👀 I’m interested in Web Developing 
 - 🌱 I’m currently learning Front-end and Back-end
 - 💞️ I’m looking to collaborate on different web-based projects
